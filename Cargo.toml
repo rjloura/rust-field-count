@@ -1,6 +1,6 @@
 [package]
 name = "field_count"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Rui Loura <rjloura@gmail.com>"]
 edition = "2018"
 
