@@ -1,0 +1,12 @@
+[package]
+name = "field_count"
+version = "0.1.0"
+authors = ["Rui Loura <rjloura@gmail.com>"]
+edition = "2018"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = {version = "1.0.11", features = ["full"]}
+quote = "1.0.2"
